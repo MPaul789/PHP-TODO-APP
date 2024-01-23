@@ -24,7 +24,8 @@ Output
    <img width="957" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/9b44825d-1b2f-412b-80fe-ad0fe44726ca">
    
 4. Now, you will be able to add new task, update them, edit or delete them.
-   <img width="416" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/866846e1-5a9e-4204-9c9d-ae2c75c55367">
+
+<img width="416" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/866846e1-5a9e-4204-9c9d-ae2c75c55367">
 
 
    
