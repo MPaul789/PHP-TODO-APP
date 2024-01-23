@@ -9,6 +9,11 @@ You can edit the task by clicking the pencil icon.
 You can update the task by clicking the update button.
 Even You can delete the task list by clicking the trash icon.
 
+The MySQL Database has a DB named 'notes' and two tables-
+notes ---> sno, Task, Priority, Status
+signin ---> Sl No. , Name, Email, Password, token	
+
+
 File Structure
 
 <img width="125" alt="Screenshot 2024-01-23 233118" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/28220fde-027d-4e82-a29c-68f53e6fcd9c">
