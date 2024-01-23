@@ -15,13 +15,16 @@ File Structure
 
 Output
 1. First, the user will be redirected to the login page, if user logins then only the user will be able to access the index page.
-   <img width="719" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/de05ef60-68f1-486a-b15e-f907a94c2fc2">
+
+<img width="719" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/de05ef60-68f1-486a-b15e-f907a94c2fc2">
 
 2. If you are a new user, you can Create a new account by filling the fields and your information will be stored in the Database named as 'notes'
-   <img width="680" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/272e1fc1-e867-41eb-a3e6-22f8c5003833">
+
+<img width="680" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/272e1fc1-e867-41eb-a3e6-22f8c5003833">
 
 3. After Login you will be redirected to the index page.
-   <img width="957" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/9b44825d-1b2f-412b-80fe-ad0fe44726ca">
+
+<img width="957" alt="image" src="https://github.com/MPaul789/PHP-TODO-APP/assets/136621962/9b44825d-1b2f-412b-80fe-ad0fe44726ca">
    
 4. Now, you will be able to add new task, update them, edit or delete them.
 
