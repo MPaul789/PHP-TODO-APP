@@ -1,0 +1,109 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Poppins", sans-serif;
+	font-size: 20px;
+}
+:root {
+	--color-white: #f3f3f3;
+	--color-darkblue: #1b1b32;
+	--color-darkblue-alpha: rgba(177, 177, 241, 0.8);
+	
+}
+
+body::-webkit-scrollbar {
+	display: none;
+}
+body {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+.container {
+	width: 60%;
+	margin: 30px auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 2px 2px 3px black;
+	padding-top: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+	background-color: rgba(132, 153, 206, 0.8);
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+}
+.container-small-unit {
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+	
+	
+}
+.label {
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+	text-transform: capitalize;
+	
+	
+}
+
+.input {
+
+	padding: 15px;
+	border: none;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+}
+.container-placehold {
+	display: flex;
+	flex-direction: row;
+}
+option {
+	min-width: 1.1em;
+	min-height: 1.1em;
+}
+
+.btn {
+	width: 40%;
+	padding: 20px;
+	background-color:rgb(122, 175, 233);
+	color: var(--color-white);
+	font-size: large;
+	letter-spacing: 2px;
+	cursor: pointer;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+}
+.btn:hover {
+	color: rgb(122, 175, 233);
+	background-color: var(--color-darkblue-alpha);
+}
+#table{
+	background-color: whitesmoke;
+}
+
+/* For sigin page */
+.form-body{
+	max-width:600px ;
+	margin: 0 auto;
+	padding: 50px;
+	box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px
+}
+
+.form{
+	margin-bottom: 30px;
+}
